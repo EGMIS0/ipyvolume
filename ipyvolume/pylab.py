@@ -1197,8 +1197,8 @@ class style:
      * figure.facecolor: background color
      * axes.color: color of the box around the volume/viewport
      * xaxis.color: color of xaxis
-     * yaxis.color: color of xaxis
-     * zaxis.color: color of xaxis
+     * yaxis.color: color of yaxis
+     * zaxis.color: color of zaxis
 
     """
 
